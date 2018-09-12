@@ -7,6 +7,6 @@ You need to be part of the CSAdministrators and Domain Admins Role to use this.<
 <p>
   Execution of Script</p>
   <p>
- & '.\Find-SfB-Orphaned-Objects.ps1' -lineuri "+14085551212"</p>
+ & '.\Find Deleted Users.ps1' -lineuri "+14085551212"</p>
  
  <p>You can get the lineuri from snooper trace files and looking for SIP 485 Ambigious</p>
